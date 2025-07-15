@@ -1,4 +1,4 @@
-## Données utilisées
+# Données utilisées
 
 données concernant les énergies liées au réchaufement climatique sur la période de 
 
@@ -15,14 +15,14 @@ données concernant les énergies liées au réchaufement climatique sur la pér
 * évolution de la température de la france en °C
 
 
-## Biais dans les données
+# Biais dans les données
 
-# données sur le mix énergétique
+## données sur le mix énergétique
 
-En aditionnant les pourcentages sur le mix énergétique, on obtient des valeurs entre 90.5 % et 100.1 %, soit une marge d'erreur de 9.5 % sur l'ensemble du mix énergétique.
+En aditionnant les pourcentages sur le mix énergétique français, on obtient des valeurs entre 90.5 % et 100.1 %, soit une marge d'erreur de 9.5 % sur l'ensemble du mix énergétique.
 
 # prérequis
 
-pandas should be installed
+pandas doit être installé
 
 ```bash pip install pandas ```
