@@ -34,11 +34,11 @@ if __name__ == "__main__":
     plt.show()
 
     #affichage de l'évolution du mix énergétique en France par des barres
-    df[FR_used_energies].plot.barh(stacked = True, title='Évolution du mix énergétique en France', xlabel='Année', ylabel='Pourcentage (%)')
+    df[FR_used_energies].plot.barh(stacked = True, title='Évolution du mix énergétique en France', ylabel='Année', xlabel='Pourcentage (%)')
     plt.show()
 
     #affichage de l'évolution du mix énergétique aux États Unis par des barres
-    df[US_used_energies].plot.barh(stacked = True, title='Évolution du mix énergétique aux États Unis', xlabel='Année', ylabel='Pourcentage (%)')
+    df[US_used_energies].plot.barh(stacked = True, title='Évolution du mix énergétique aux États Unis', ylabel='Année', xlabel='Pourcentage (%)')
     plt.show()
 
     #affichage de l'évolution de l'empreinte carbone de la france en Millions de tonnes de CO2 équivalent
