@@ -27,4 +27,6 @@ Les données sur le mix énergétique ne représentent que les émissions liées
 
 pandas doit être installé
 
-```bash pip install pandas ```
+```bash 
+pip install pandas 
+```
