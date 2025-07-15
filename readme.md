@@ -10,7 +10,7 @@ données concernant les énergies liées au réchaufement climatique sur la pér
 
 * évolution des émissions de la France et des Etats-Unis en Millions de tonnes de CO2 équivalent par an
 
-* évolution de la température de la france en °C
+* évolution de l'anomalie thermique moyenne mondiale en °C
 
 
 # Biais dans les données
