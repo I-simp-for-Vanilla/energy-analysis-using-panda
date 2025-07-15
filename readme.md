@@ -12,6 +12,17 @@ données concernant les énergies liées au réchaufement climatique sur la pér
 
 * évolution de la qualité de l'air en france en concentration de NO2, O3, PM10 et PM2.5
 
-* évolution des maladies en france (cancers, problèmes respiratoires) en nombre de cas
-
 * évolution de la température de la france en °C
+
+
+## Biais dans les données
+
+# données sur le mix énergétique
+
+En aditionnant les pourcentages sur le mix énergétique, on obtient des valeurs entre 90.5 % et 100.1 %, soit une marge d'erreur de 9.5 % sur l'ensemble du mix énergétique.
+
+# prérequis
+
+pandas should be installed
+
+```bash pip install pandas ```
